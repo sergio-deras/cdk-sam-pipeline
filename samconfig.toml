@@ -2,7 +2,7 @@ version = 0.1
 [default]
 [default.deploy]
 [default.deploy.parameters]
-stack_name = "sam-app2"
+stack_name = "sam-app"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-v5dwmo9iapyc"
 s3_prefix = "sam-app"
 region = "us-west-1"
